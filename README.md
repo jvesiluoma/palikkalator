@@ -1,6 +1,9 @@
-# 🎬 AI Video Translator – Subtitle Wizard with a Brain 🧠✨
+# 🎬 Palikkalator - AI Video Translator – Pretty brainless Subtitle Wizard
 
 This Python script is a tool that automates the process of downloading or processing videos/audio (from YouTube or local files), transcribing the audio using [OpenAI Whisper](https://github.com/openai/whisper), translating the subtitles to another language using Hugging Face's MarianMT model, and optionally burning the translated subtitles back into the video using `ffmpeg`.
+
+Of course, if you use another model, you can translate into different languages too.
+
 
 ---
 
